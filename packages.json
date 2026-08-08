@@ -30,6 +30,16 @@
       },
       "versions": [
         {
+          "version": "1.4.2",
+          "status": "testing",
+          "kicad_version": "10.0",
+          "runtime": "ipc",
+          "install_size": 6497212,
+          "download_size": 2556559,
+          "download_sha256": "0120e6c691263cfb51a42a72ec3a999bffe7da60c46e3316fe64f51522ebc9fc",
+          "download_url": "https://github.com/mrcpuddington/kobeestudio/releases/download/v1.4.2-beta.1/Kobee-Studio-1.4.2-pcm.zip"
+        },
+        {
           "version": "1.4.1",
           "status": "testing",
           "kicad_version": "10.0",
