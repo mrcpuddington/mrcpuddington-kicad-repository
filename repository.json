@@ -9,8 +9,8 @@
   "name": "Mrcpuddington testing repository",
   "packages": {
     "url": "https://raw.githubusercontent.com/mrcpuddington/mrcpuddington-kicad-repository/testing/packages.json",
-    "sha256": "8eefe8e4858c0870bc6b108b916c789fd495d4f3b7a0246057537482149ad882",
-    "update_time_utc": "2026-08-08 12:11:45",
-    "update_timestamp": 1786191105
+    "sha256": "56d8add139a3b73632d0068590ab054694dae7b870ed6faba38257f81ed493b2",
+    "update_time_utc": "2026-08-08 12:18:56",
+    "update_timestamp": 1786191536
   }
 }
