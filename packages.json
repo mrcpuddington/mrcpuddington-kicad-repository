@@ -36,7 +36,7 @@
           "runtime": "ipc",
           "install_size": 6488808,
           "download_size": 2554632,
-          "download_sha256": "dcc9bd6859aa809e8907b985421812adb996e6a57c669f60c6dc3e5ad3a756d3",
+          "download_sha256": "9ef9158405bbeac77a9218952316317c5b4c2213370a6acb7646c8b11accbb22",
           "download_url": "https://github.com/mrcpuddington/kobeestudio/releases/download/v1.4.0-beta.2/Kobee-Studio-1.4.0-pcm.zip"
         }
       ]
