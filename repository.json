@@ -6,7 +6,7 @@
       "github": "https://github.com/mrcpuddington"
     }
   },
-  "name": "Mrcpuddington KiCad repository",
+  "name": "Mrcpuddington testing repository",
   "packages": {
     "url": "https://raw.githubusercontent.com/mrcpuddington/mrcpuddington-kicad-repository/testing/packages.json",
     "sha256": "efbbe65388611a22342549b15ca652b4a34f17fdfd1ce4795be280346c0d179f",
