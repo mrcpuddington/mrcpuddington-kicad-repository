@@ -30,6 +30,16 @@
       },
       "versions": [
         {
+          "version": "1.4.1",
+          "status": "testing",
+          "kicad_version": "10.0",
+          "runtime": "ipc",
+          "install_size": 6497212,
+          "download_size": 2556558,
+          "download_sha256": "fb32205217d41cab2684f5337cb898f6b67a89903698269df7d6d8c1190c24db",
+          "download_url": "https://github.com/mrcpuddington/kobeestudio/releases/download/v1.4.1-beta.2/Kobee-Studio-1.4.1-pcm.zip"
+        },
+        {
           "version": "1.4.0",
           "status": "testing",
           "kicad_version": "10.0",
@@ -38,16 +48,6 @@
           "download_size": 2556622,
           "download_sha256": "ce15011580e4598013bbed9595a71444245f7d0602ea6f5b16fb5fdc20f37c698",
           "download_url": "https://github.com/mrcpuddington/kobeestudio/releases/download/v1.4.0-beta.1/Kobee-Studio-1.4.0-pcm.zip"
-        },
-        {
-          "version": "1.4.1",
-          "status": "testing",
-          "kicad_version": "10.0",
-          "runtime": "ipc",
-          "install_size": 6488808,
-          "download_size": 2554632,
-          "download_sha256": "ad3205429fe4b86cdc69e93775f3162aeee5ad3b488b1f9ada27867f3ab23c8f",
-          "download_url": "https://github.com/mrcpuddington/kobeestudio/releases/download/v1.4.1-beta.2/Kobee-Studio-1.4.1-pcm.zip"
         }
       ]
     }
