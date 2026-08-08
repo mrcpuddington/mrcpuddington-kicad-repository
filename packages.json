@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "$schema": "https://go.kicad.org/pcm/schemas/v2",
+      "name": "Kobee Studio",
+      "description": "Create PCB labels, symbols, component callouts, header overlays, QR Codes, and barcodes inside KiCad",
+      "description_full": "Kobee Studio creates editable PCB artwork on silkscreen, copper, and solder-mask layers. Version 1.3.4 is the current stable release tested with KiCad 10 on macOS and Windows.",
+      "identifier": "com.github.mrcpuddington.kobeestudio",
+      "type": "plugin",
+      "author": {
+        "name": "Corey Busuttil",
+        "contact": {
+          "github": "https://github.com/mrcpuddington"
+        }
+      },
+      "maintainer": {
+        "name": "Kobee — Corey Busuttil",
+        "contact": {
+          "github": "https://github.com/mrcpuddington/kobeestudio"
+        }
+      },
+      "license": "GPL-2.0",
+      "resources": {
+        "homepage": "https://www.coreybusuttil.com/kobeestudio/",
+        "documentation": "https://www.coreybusuttil.com/kobeestudio/docs/",
+        "repository": "https://github.com/mrcpuddington/kobeestudio",
+        "issues": "https://github.com/mrcpuddington/kobeestudio/issues"
+      },
+      "versions": [
+        {
+          "version": "1.3.4",
+          "status": "stable",
+          "kicad_version": "10.0",
+          "runtime": "ipc",
+          "install_size": 6116727,
+          "download_size": 2414262,
+          "download_sha256": "f30409e622b7b80d6041e0eb830bd515cc21a61dfc9e92a08a7da11321084337",
+          "download_url": "https://github.com/mrcpuddington/kobeestudio/releases/download/v1.3.4/Kobee-Studio-1.3.4-pcm.zip"
+        }
+      ]
+    }
+  ]
+}
